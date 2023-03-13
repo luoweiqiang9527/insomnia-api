@@ -1,0 +1,21 @@
+_id: req_d6e66f2867e84a8985af21d1ba15e541
+type: Request
+parentId: wrk_4e859898fe4043cb96a0bbd19344e61b
+modified: 1678695143680
+created: 1678695142394
+url: http://ccdb.hemiola.com/characters/radicals/85
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1678695142394
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
